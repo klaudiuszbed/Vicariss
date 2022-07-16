@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicariss&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-#### Connect & Contact:
+### Connect & Contact:
 
 <a href="https://linkedin.com/in/klaudiusz-bednarski" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
