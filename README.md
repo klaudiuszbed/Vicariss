@@ -22,4 +22,9 @@
 <img src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </p>
+<a href="https://leetcode.com/vicaris/" target="_blank">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
+</p>
+
 
