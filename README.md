@@ -27,6 +27,6 @@
 </p>
 <hr>
 <h3> Check my other work whose code could not be published: </h3>
-<a href="https://www.youtube.com/watch?v=pPvmsnVaSbg" target="_blank"><b>CVEpro</b></a> - web application with simple GUI for CVE management and report creation.
+<a href="https://www.youtube.com/watch?v=pPvmsnVaSbg" target="_blank"><b>CVEpro</b></a> - web application for CVE management and report creation.
 <p><a href="https://www.youtube.com/watch?v=RzqVGxsZI0o" target="_blank"><b>Newspy</b></a> - news-related web app, created as part of Apprenticeship at BerSec LTD.</p>
 
